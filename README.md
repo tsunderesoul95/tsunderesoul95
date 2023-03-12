@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tejal 
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to know about data science
+- 👀 I'm frontend developer for past 4 yrs in mobile and web applications.
+- 🌱 I’m currently learning react and various trending UI tools.
+- 💞️ I’m looking to know about data science, analytics 
 - 📫 How to reach me tsunderesoul95@gmail.com
 
 <!---
